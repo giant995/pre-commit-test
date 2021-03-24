@@ -2,7 +2,6 @@
 line-length = 79
 include = '\.pyi?$'
 exclude = '''
-/(exclude = '''
 /(
     \.git
   | \.hg
